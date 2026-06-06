@@ -1,2 +1,3 @@
-# HTML-Code
-A list of all the HTML code I have made in the past
+# HTML-Code ⌨️
+This repository includes all of the collections of the code I have made in the past to learn HTML. It covers basic elements and small functions.
+## 📝 What it includes...
