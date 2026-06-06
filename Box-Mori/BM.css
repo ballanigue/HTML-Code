@@ -1,0 +1,128 @@
+/* Image Background */
+body {
+	background-image: url(https://64.media.tumblr.com/88a77a6e025bd356fbb23b1c2c469514/9b70497cc2682c30-7f/s540x810/8d9bee55186702f7c07b929c8026e682d226ed00.gifv);
+}
+
+/* BoxMori icon */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  mix-blend-mode: multiply;
+  align: center;
+}
+
+/* Adding styles to everything */
+h1 {
+    font-family: monospace;
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    background-color: silver;
+}
+
+h3 {
+    border-style: groove;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: comic sans;
+}
+
+/* Adding Interactive Buttons */
+
+
+
+.buttonP {
+    border: 5px solid white;
+    padding: 15px 100px;
+    text-align: center;
+    font-size: 30px;
+    border-color: black;
+    color: black;
+    font-family: comic sans;
+}
+
+.buttonP:hover {
+    background-color: black;
+    color: white;
+}
+
+.buttonS {
+    border: 5px solid white;
+    padding: 15px 100px;
+    text-align: center;
+    font-size: 30px;
+    border-color: black;
+    color: black;
+    font-family: comic sans;
+}
+
+.buttonS:hover {
+    background-color: black;
+    color: white;
+}
+
+.buttonC {
+    border: 5px solid white;
+    padding: 15px 100px;
+    text-align: center;
+    font-size: 30px;
+    border-color: black;
+    color: black;
+    font-family: comic sans;
+}
+
+.buttonC:hover {
+    background-color: black;
+    color: white;
+}
+
+.buttonM {
+    border: 5px solid white;
+    padding: 1px 5px;
+    text-align: center;
+    font-size: 30px;
+    border-color: black;
+    color: black;
+    font-family: comic sans;
+}
+
+.buttonM:hover {
+    background-color: black;
+    color: white;
+}
+
+.fade-in-text {
+  animation: fadeIn 3s;
+  -webkit-animation: fadeIn 3s;
+  -moz-animation: fadeIn 3s;
+  -o-animation: fadeIn 3s;
+  -ms-animation: fadeIn 3s;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-moz-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-webkit-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-o-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-ms-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
